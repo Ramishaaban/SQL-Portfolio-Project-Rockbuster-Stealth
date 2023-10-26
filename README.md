@@ -6,27 +6,27 @@ The cooperation with Rockbusters' BI team will play a crucial role in shaping th
 
 ## Dataset
 The dataset was offered by Rockbuster as outlined in the Project Brief. The dataset we worked on encompassed the subsequent tables. More details about the data can be found in the Data Dictionary:
-  •	Payment
-  •	Rental
-  •	Actor
-  •	Address
-  •	Category
-  •	City
-  •	Country
-  •	Customer
-  •	Fim
-  •	Film Actor
-  •	Film Category
-  •	Inventory
-  •	Language
-  •	Staff
-  •	Store
++ Payment
++ Rental
++ Actor
++ Address
++ Category
++ City
++ Country
++ Customer
++ Fim
++ Film Actor
++ Film Category
++ Inventory
++ Language
++ Staff
++ Store
 
 ## Tools used
-  •	PostgreSQL on pgAdmin Software
-  •	DbVisualizer
-  •	Excel
-  •	Tableau
++ PostgreSQL on pgAdmin Software
++ DbVisualizer
++ Excel
++ Tableau
 
 ## Skills showcased:
 
