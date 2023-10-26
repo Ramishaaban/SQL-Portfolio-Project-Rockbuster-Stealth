@@ -29,4 +29,10 @@ The dataset was offered by Rockbuster as outlined in the Project Brief. The data
 + Tableau
 
 ## Skills showcased:
++ Summarizing and cleaning data
++ Joining tables of data.
++ Descriptive Statistics
++ Performing subqueries 
++ Scripts with Common Table Expressions (CTEs)
++ Reporting: a PowerPoint presentation addressing key questions and presenting recommendations
 
