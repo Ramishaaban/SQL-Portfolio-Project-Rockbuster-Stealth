@@ -5,7 +5,7 @@ Rockbuster, a global movie rental company with a history of physical store locat
 The cooperation with Rockbusters' BI team will play a crucial role in shaping the strategy for the launch of the new online service. The dataset we have received comprises a relational database that holds information about our existing clients.
 
 ## Dataset
-The dataset was offered by Rockbuster as outlined in the Project Brief. The dataset we worked on encompassed the subsequent tables. More details about the data can be found in the Data Dictionary:
+The dataset was offered by Rockbuster as outlined in the Project Brief. The dataset we worked on encompassed the subsequent tables. More details about the data can be found in the [Data Dictionary](Data Dictionary.pdf):
 + Payment
 + Rental
 + Actor
