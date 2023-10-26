@@ -1,0 +1,22 @@
+-- This script returns the top 10 cities that fall within any of the top 10 countries in terms of customer numbers
+
+SELECT
+    COUNT(A.customer_id) AS customer_numbers,
+    D.country,
+    C.city
+FROM
+    customer A
+INNER JOIN
+    address B ON B.address_id = A.address_id
+INNER JOIN
+    city C ON C.city_id = B.city_id
+INNER JOIN
+    country D ON D.country_id = C.country_id
+WHERE
+    D.country IN ('India', 'China', 'United States', 'Japan', 'Mexico', 'Brazil', 'Russian Federation', 'Philippines', 'Turkey', 'Indonesia')
+GROUP BY
+    D.country,
+    C.city
+ORDER BY
+    customer_numbers DESC
+LIMIT 10;
